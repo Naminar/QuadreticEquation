@@ -1,2 +1,2 @@
 # Quadretic
-This is quadretic solver
+This is a quadretic solver
